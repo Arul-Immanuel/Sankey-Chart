@@ -5,27 +5,27 @@ A simple Excel-based personal budget tracker to help manage income and expenses 
 Easily customizable for any individual or household.
 
 ✨ Features
-Track multiple income sources and expenses
+1. Track multiple income sources and expenses
 
-Organize spending into clear categories
+2. Organize spending into clear categories
 
-Calculate savings effortlessly
+3. Calculate savings effortlessly
 
-Works with Excel, Google Sheets, or any spreadsheet tool
+4. Works with Excel, Google Sheets, or any spreadsheet tool
 
 🎯 Purpose
-This template helps you:
+1. This template helps you:
 
-Understand where your money goes
+2. Understand where your money goes
 
-Plan monthly budgets more effectively
+3. Plan monthly budgets more effectively
 
-Maintain better control over your savings
+4. Maintain better control over your savings
 
 📌 How It Works
-Enter your income sources
+1. Enter your income sources
 
-Log your expenses in relevant categories
+2. Log your expenses in relevant categories
 
-Review totals and adjust your spending
+3. Review totals and adjust your spending
 
